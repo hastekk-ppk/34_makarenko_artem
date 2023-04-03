@@ -25,4 +25,5 @@
 ![](Image/Task2_Result1.png)
 
 **Виконання** **EnergyCalculatorDemo:**
+
 ![](Image/Task2_Result2.png)
